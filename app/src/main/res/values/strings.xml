@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="titulo">Formulario</string>
+    <string name="nombre">Nombre:</string>
+    <string name="correo">Correo:</string>
+    <string name="guardar">Guardar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="Cine">Cine</string>
+    <string name="nadar">Nadar</string>
+    <string name="gym">Gym</string>
+    <string name="sexo">Sexo</string>
+</resources>
