@@ -54,7 +54,7 @@ public class Sesion2G1 extends AppCompatActivity {
             data=data+"Sexo:Femenino";
         }
     }
-//Comentario de prueba
+//Comentario de prueba para github
     public void oncCheckBoxClicked(View view) {
         int id=view.getId();
 
